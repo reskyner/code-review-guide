@@ -30,11 +30,11 @@
 @ulend
 ---
 @snap[north-west span-100]
-### Step 1: Create an issue
+### Step 1: Create an issue  
 @fa[quote-left](Use issues to track ideas, enhancements, tasks, or bugs for work on GitHub.)
-#### Why?
+#### Why?  
 @ul
-- An issue can be associated with a pull request, and automatically closes when pull request is merged
+- An issue can be associated with a pull request, and automatically closes when pull request is merged  
 @ulend
 @snapend
 ---
