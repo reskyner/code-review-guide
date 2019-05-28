@@ -53,6 +53,6 @@
 @snapend
 ---
 
----?gist=reskyner/002473c523a8c6406210ce9314b2f449&lang=markdown
+---?gist=reskyner/002473c523a8c6406210ce9314b2f449
 
 ---
