@@ -41,6 +41,9 @@
 ### Step 1: Create an issue  
 
 @fa[quote-left](Use issues to track ideas, enhancements, tasks, or bugs for work on GitHub.)
+
+<p></p>
+
   
 #### Why?  
 
