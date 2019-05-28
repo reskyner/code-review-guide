@@ -2,10 +2,9 @@
 # Code Review Guidelines
 ## RachEAl Skyner (intentional mistake!)
 ---
-@snap[north-west span-100]
+@snap[midpoint span-100]
 ### Outline
-@snapend
-@snap[west span-100]
+\
 @ul
 - Intro: Why code review?
 - Step 1: Create an issue
@@ -30,11 +29,11 @@
 @snap[north-west span-100]
 ### Step 1: Create an issue  
 @fa[quote-left](Use issues to track ideas, enhancements, tasks, or bugs for work on GitHub.)
-<p></p>
+\
 #### Why?  
-<p></p>
+\
 - An issue can be associated with a pull request, and automatically closes when pull request is merged  
-<p></p>
+\
 #### How?
 @snapend
 ---
@@ -50,7 +49,7 @@
 ---
 @snap[midpoint span-100]
 ### For code review...
-<p></p>
+\
 @ul
 - Create new label 'code-review' (if not existing)
 - Give it a meaningful title (e.g. add a comment to the MakeAFile class to explain use)
