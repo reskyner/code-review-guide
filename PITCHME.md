@@ -4,6 +4,8 @@
 ---
 @snap[north-west span-100]
 ### Outline
+€snapend
+@snap[west span-100]
 @ul
 - Intro: Why code review?
 @ulend
