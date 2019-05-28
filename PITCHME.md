@@ -57,5 +57,6 @@
 3. Give it some context (e.g. I struggled to understand how you were making a new file. Adding a commant above the class would help me to understand)
 4. Assign it to the person that suggestes the change, and yourself
 @ulend
+@snapend
 ---
 
