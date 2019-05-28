@@ -52,5 +52,5 @@
 ![Issues](assets/img/issue_assign.png)
 @snapend
 
----?gist=onetapbeyond/8da53731fd54bab9d5c6
+---?gist=reskyner/002473c523a8c6406210ce9314b2f449
 
