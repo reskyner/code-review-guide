@@ -47,7 +47,7 @@
 ![Issues](assets/img/issue_new-issue.png)
 @snapend
 ---
-@snap[north span-60]
+@snap[midpoint span-45]
 ![Issues](assets/img/issue_create.png)
 ![Issues](assets/img/issue_assign.png)
 @snapend
