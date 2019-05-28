@@ -52,9 +52,7 @@
 ![Issues](assets/img/issue_assign.png)
 @snapend
 ---
-```
+
+---?gist=reskyner/002473c523a8c6406210ce9314b2f449&lang=markdown
+
 ---
-# Code Review Guidelines
-## RachEAl Skyner (intentional mistake!)
----
-```
