@@ -15,3 +15,8 @@
 - Live Demo ?!@!£$£Q%
 @ulend
 @snapend
+---
+@snap[north-west span-100]
+### Why code review?
+@fa[quote-left](Code review is systematic examination (sometimes referred to as peer review) of computer source code. It is intended to find mistakes overlooked in the initial development phase, improving the overall quality of software. Reviews are done in various forms such as pair programming, informal walkthroughs, and formal inspections.)
+---
