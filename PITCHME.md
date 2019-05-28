@@ -53,11 +53,13 @@
 
 <p></p>
 
-- An issue can be associated with a pull request, and automatically closes when pull request is merged  
+An issue can be associated with a pull request, and automatically closes when pull request is merged  
 
 <p></p>  
 
 #### How?
+
+Pictures...
 
 @snapend
 
