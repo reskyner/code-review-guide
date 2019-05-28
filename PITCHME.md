@@ -43,5 +43,5 @@
 @snapend
 ---
 @snap[north span-100]
-![ISSUES](assets/img/issues_circle.png)
+![ISSUES](assets/img/issue_circle.png)
 
