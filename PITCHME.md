@@ -52,3 +52,9 @@
 ![Issues](assets/img/issue_assign.png)
 @snapend
 ---
+```
+---
+# Code Review Guidelines
+## RachEAl Skyner (intentional mistake!)
+---
+```
