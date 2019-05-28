@@ -1,6 +1,6 @@
 ---
 # Code Review Guidelines
-## Rachael Skyner
+## RachEAl Skyner (intentional mistake!)
 ---
 @snap[north-west span-100]
 ### Outline
@@ -12,7 +12,7 @@
 - Step 2: Create a new branch for each issue
 - Step 3: Pull request for each issue
 - Step 4: Merge when happy :)
-- Live Demo ?!@!£$£Q%
+- Live Demo
 @ulend
 @snapend
 ---
@@ -38,6 +38,10 @@
 @ul
 - An issue can be associated with a pull request, and automatically closes when pull request is merged  
 @ulend
+<p></p>
+#### How?
 @snapend
 ---
+@snap[north span-100]
+![ISSUES](assets/img/issues_circle.png)
 
