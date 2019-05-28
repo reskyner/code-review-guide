@@ -52,10 +52,10 @@
 ### For code review...
 <p></p>
 @ul
-1. Create new label 'code-review' (if not existing)
-2. Give it a meaningful title (e.g. add a comment to the MakeAFile class to explain use)
-3. Give it some context (e.g. I struggled to understand how you were making a new file. Adding a commant above the class would help me to understand)
-4. Assign it to the person that suggestes the change, and yourself
+- Create new label 'code-review' (if not existing)
+- Give it a meaningful title (e.g. add a comment to the MakeAFile class to explain use)
+- Give it some context (e.g. I struggled to understand how you were making a new file. Adding a commant above the class would help me to understand)
+- Assign it to the person that suggestes the change, and yourself
 @ulend
 @snapend
 ---
