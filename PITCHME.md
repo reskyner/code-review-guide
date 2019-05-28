@@ -28,6 +28,7 @@
 
 @fa[quote-left](Code review is systematic examination ... of computer source code. It is intended to find mistakes overlooked in the initial development phase, improving the overall quality of software. ~ Wikipedia)
 
+@snap[midpoint span-100]
 @ul
 
 - Make sure it works
@@ -35,6 +36,7 @@
 - Learn new things!
 
 @ulend
+@snapend
 
 @snapend
 
