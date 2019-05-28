@@ -1,4 +1,4 @@
 ---
-### Code Review Guidelines
+# Code Review Guidelines
 ## Rachael Skyner
 ---
