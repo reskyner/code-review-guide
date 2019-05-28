@@ -20,6 +20,13 @@
 @snapend
 @snap [west span-100]
 ### Why code review?
-@fa[quote-left](Code review is systematic examination ... of computer source code. It is intended to find mistakes overlooked in the initial development phase, improving the overall quality of software.)
+@fa[quote-left](Code review is systematic examination ... of computer source code. 
+It is intended to find mistakes overlooked in the initial development phase, improving the overall quality of software. 
+~ Wikipedia)
 @snapend
+@snap[south-west span-100]
+@ul
+- make sure it works
+- improve it
+- learn new things!
 ---
