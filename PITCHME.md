@@ -51,8 +51,6 @@
 ![Issues](assets/img/issue_create.png)
 ![Issues](assets/img/issue_assign.png)
 @snapend
----
 
----?gist=onetapbeyond/8da53731fd54bab9d5c6&lang=groovy
+---?gist=onetapbeyond/8da53731fd54bab9d5c6
 
----
