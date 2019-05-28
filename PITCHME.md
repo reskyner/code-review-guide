@@ -1,4 +1,5 @@
 ---
-###Code Review Guidelines
-###Rachael Skyner
+@title [Opening Slide]
+### Code Review Guidelines
+Rachael Skyner
 ---
