@@ -24,8 +24,8 @@
 @snapend
 @snap[south-west span-100]
 @ul
-- make sure it works
-- improve it
-- learn new things!
+- Make sure it works
+- Improve it
+- Learn new things!
 @ulend
 ---
