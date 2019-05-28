@@ -48,7 +48,7 @@
 ![Issues](assets/img/issue_assign.png)
 @snapend
 ---
-@snap[north-west span-100]
+@snap[midpoint span-100]
 ### For code review...
 <p></p>
 @ul
