@@ -12,7 +12,7 @@
 - Step 2: Create a new branch for each issue
 - Step 3: Pull request for each issue
 - Step 4: Merge when happy :)
-- Live Demo
+- Live Demos throughout!
 @ulend
 @snapend
 ---
@@ -45,5 +45,7 @@
 @snap[north span-100]
 ![Issues](assets/img/issue_circle.png)
 ![Issues](assets/img/issue_new-issue.png)
+![Issues](assets/img/issue_create.png)
+![Issues](assets/img/issue_assign.png)
 @snapend
 
