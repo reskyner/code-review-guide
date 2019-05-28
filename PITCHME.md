@@ -2,6 +2,6 @@
 # Code Review Guidelines
 ## Rachael Skyner
 ---
-@snap[west span-100]
+@snap[north-west span-100]
 ### Outline
 @snapend
