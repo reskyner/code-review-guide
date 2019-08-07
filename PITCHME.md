@@ -1,7 +1,7 @@
 ---
 
 # Code Review Guidelines
-## Rachael Skyner
+## Racheall Skynertt
 
 ---
 @snap[midpoint span-100]
@@ -279,3 +279,41 @@ Add links to the relevant issues to a list in README.md:
 ![Git](assets/img/code-rev-git.png)
 
 @snapend
+
+---
+
+@snap[midpoint span-100]
+
+### Step 3: Create a branch (per issue?!) and review
+
+@snapend
+
+
+---
+
+@snap[midpoint span-100]
+
+### Step 4: Pull request
+
+@snapend
+
+
+---
+
+@snap[midpoint span-100]
+
+### Step 4: Reviewers comment on changes
+
+@snapend
+
+
+---
+
+@snap[midpoint span-100]
+
+### Step 5: Merge into master and close!
+
+@snapend
+
+
+---
