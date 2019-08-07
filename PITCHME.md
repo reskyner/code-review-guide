@@ -274,6 +274,8 @@ Add links to the relevant issues to a list in README.md:
 
 @snapend
 
-@snap[midpoint span-80] 
+@snap[south span-80 -center] 
 
 ![Git](assets/img/code-rev-git.png)
+
+@snapend
