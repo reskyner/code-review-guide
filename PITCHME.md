@@ -56,19 +56,19 @@
 
 ### Review < 400 lines of code (LOC) at a time
 
+@snapend
+
+@snap[west span-100]
+
+(study by SmartBear study of a Cisco Systems programming team)
+
 @ul
-
-
 
 - Review no more than 200-400 LOC at a time
 - Beyond this, the ability to find defects diminishes
 - 200-400 LOC over 60 to 90 minutes should yield 70-90% defect discovery
 
-(study by SmartBear study of a Cisco Systems programming team)
-
 @ulend
-
-
 
 @snapend
 
