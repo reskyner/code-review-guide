@@ -336,7 +336,12 @@ Add links to the relevant issues to a list in README.md:
 
 @snapend
 
+---
 
+@snap[midpoint span-100]
 
+## ideas & discussion?
+
+@snapend
 
 ---
