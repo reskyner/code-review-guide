@@ -256,7 +256,7 @@ Pictures...
 - Create new label 'code-review' (if not existing)
 - Give it a meaningful title (e.g. add a comment to the MakeAFile class to explain use)
 - Give it some context (e.g. I struggled to understand how you were making a new file. Adding a comment above the class would help me to understand)
-- Assign it to the person that suggestes the change, and yourself
+- Assign it to the person that suggests the change, and yourself
 
 @ulend
 
@@ -264,3 +264,16 @@ Pictures...
 
 ---
 
+---
+
+@snap[north-west span-100]
+
+### Step 2: Add the issues list to the (new) github page
+
+Add links to the relevant issues to a list in README.md:
+
+@snapend
+
+@snap[midpoint span-80] 
+
+![Git](assets/img/code-rev-git.png)
