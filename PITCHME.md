@@ -308,9 +308,6 @@ Add links to the relevant issues to a list in README.md:
 
 ### Step 5: Reviewers and you review
 
-@snapend
-
-@snap[midpoint span-80]
 
 ![Git](assets/img/add-review-change.png)
 
