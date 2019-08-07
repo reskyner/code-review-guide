@@ -66,9 +66,9 @@
 
 @ul
 
-- Review no more than 200-400 LOC at a time
-- Beyond this, the ability to find defects diminishes
-- 200-400 LOC over 60 to 90 minutes should yield 70-90% defect discovery
+- Review no more than 200-400 LOC at a time  
+- Beyond this, the ability to find defects diminishes  
+- 200-400 LOC over 60 to 90 minutes should yield 70-90% defect discovery  
 
 @ulend
 
