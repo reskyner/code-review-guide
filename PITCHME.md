@@ -65,7 +65,7 @@
 
 - Review no more than 200-400 LOC at a time
 - Beyond this, the ability to find defects diminishes
-- 200-400 LOC over 60 to 90 minutes should yield 70-90% defect discovery) 
+- 200-400 LOC over 60 to 90 minutes should yield 70-90% defect discovery)
 @ulend
 
 @snapend
@@ -125,6 +125,56 @@ Before implementing a process, we should decide how to measure effectiveness
 @snap[south span-100]
 
 i.e. Everyone should decide what they want to get out of code review, and we should regularly work out whether we need to chance things to achieve those goals
+
+@snapend
+
+---
+
+@snap[north span-100]
+
+### Annotate code before review
+
+@snapend
+
+@snap[midpoint span-100]
+
+@ul
+- annotations guide reviewer through changes
+- directed annotations to ease process and provide context
+- order of any files should be clear
+- helps to find errors before review
+
+@ulend
+
+@snapend
+
+---
+
+@snap[north span-100]
+
+### Use checklists
+
+@snapend
+
+@snap[west span-100]
+
+@ul
+- Likely that we all make the same mistakes over and over again...
+- Checklists eliminate frequently made errors. We should put one together!
+@ulend
+
+@snapend
+
+@snap[east span-100]
+
+To consider:  
+@ul
+- code duplication
+- styling
+- security
+- testing
+- importance/frequency of revision
+@ulend
 
 @snapend
 
