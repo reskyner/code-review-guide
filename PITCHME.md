@@ -53,22 +53,22 @@
 
 ---
 
-@snap[north-west span-100]
+@snap[north span-100]
 
 ### Quantity: < 400 lines of code (LOC) at a time  
 
 
-(study by SmartBear: study of a Cisco Systems programming team)
+(study by SmartBear: study of a Cisco Systems programming team)  
 
 @snapend
 
 @snap[west span-50]
 
-
-@size[16pt](- Review no more than 200-400 LOC at a time)  
+@ul
+@size[16pt](- Review no more than 200-400 LOC at a time)
 @size[16pt](- Beyond this, the ability to find defects diminishes)  
 @size[16pt](- 200-400 LOC over 60 to 90 minutes should yield 70-90% defect discovery)  
-
+@ulend
 @snapend
 
 @snap[east span-50]
