@@ -99,7 +99,7 @@
 
 @snapend
 
-@snap [east span-50]
+@snap[east span-50]
 
 research shows a significant drop in defect density at rates faster than 500 LOC per hour.
 
