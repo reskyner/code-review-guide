@@ -165,11 +165,11 @@ i.e. Everyone should decide what they want to get out of code review, and we sho
 
 @snapend
 
-@snap[east span-50 -center -text-12 -text-right]
+@snap[east span-50 -center -text-12 -text-left]
 
-@ul
 **To consider:**  
 
+@ul
 
 - code duplication
 - styling
