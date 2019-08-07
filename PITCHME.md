@@ -214,13 +214,15 @@ How will the bugs get fixed?
 
 @snapend
 
-@snap[south span-100]
+@snap[midpoint span-100]
 
 #### Why?  
 
 
 An issue can be associated with a pull request, and automatically closes when pull request is merged  
 
+@snapend
+@snap[south span-100]
 
 #### How?
 
