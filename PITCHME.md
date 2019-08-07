@@ -156,7 +156,7 @@ i.e. Everyone should decide what they want to get out of code review, and we sho
 
 @snapend
 
-@snap[west span-100]
+@snap[west span-50]
 
 @ul
 - Likely that we all make the same mistakes over and over again...
@@ -165,7 +165,7 @@ i.e. Everyone should decide what they want to get out of code review, and we sho
 
 @snapend
 
-@snap[east span-100]
+@snap[east span-50]
 
 To consider:  
 @ul
