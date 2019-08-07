@@ -1,7 +1,7 @@
 ---
 
 # Code Review Guidelines
-## RachEAl Skyner (intentional mistake!)
+## Rachael Skyner
 
 ---
 @snap[midpoint span-100]
@@ -11,11 +11,8 @@
 
 - Intro: Why code review?
 - Best practice
-- Step 1: Create an issue
-- Step 2: Create a new branch for each issue
-- Step 3: Pull request for each issue
-- Step 4: Merge when happy :)
-- Live Demos throughout!
+- Our code review process 
+- Ideas & discussion
 
 @ulend
 
@@ -167,8 +164,6 @@ i.e. Everyone should decide what they want to get out of code review, and we sho
 
 @snap[east span-50 -center -text-12 -text-left]
 
-**To consider:**  
-
 @ul
 
 - code duplication
@@ -186,6 +181,26 @@ i.e. Everyone should decide what they want to get out of code review, and we sho
 https://hackernoon.com/writing-an-amazing-code-review-checklist-de65479e8524
 
 @snapend
+
+---
+
+@snap[north span-100]
+### Establish a process for fixing defects
+@snapend
+
+@snap[midpoint span-100]
+How will the bugs get fixed?
+@snapend
+
+---
+
+
+@snap[midpoint span-100]
+
+## Our review process
+
+@snapend
+
 
 ---
 
