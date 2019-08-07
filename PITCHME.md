@@ -120,11 +120,13 @@ Code reviews in reasonable quantity, at a slower pace for a limited amount of ti
 
 Before implementing a process, we should decide how to measure effectiveness  
 
+@snapend
+
+@snap[south span-100]
+
 i.e. Everyone should decide what they want to get out of code review, and we should regularly work out whether we need to chance things to achieve those goals
 
 @snapend
-
-
 
 ---
 
