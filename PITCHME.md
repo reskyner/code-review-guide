@@ -54,11 +54,8 @@
 ---
 @snap[north-west span-100]
 
-### Review < 400 lines of code (LOC) at a time
+### Review < 400 lines of code (LOC) at a time  
 
-@snapend
-
-@snap[west span-100]
 
 (study by SmartBear: study of a Cisco Systems programming team)
 
