@@ -159,15 +159,16 @@ i.e. Everyone should decide what they want to get out of code review, and we sho
 @snap[west span-50 -center]
 
 @ul
-- Likely that we all make the same mistakes over and over again...
-- Checklists eliminate frequently made errors. We should put one together!
+- Likely that we all make the same mistakes *over and over* again...
+- Checklists eliminate frequently made errors. **We should put one together!**
 @ulend
 
 @snapend
 
-@snap[east span-50 -center -text-12]
+@snap[east span-50 -center -text-12 -text-right]
 
-To consider:  
+**To consider:**  
+
 @ul
 - code duplication
 - styling
