@@ -298,7 +298,7 @@ Add links to the relevant issues to a list in README.md:
 ### Step 4: Pull request
 @snapend
 
-@snap[midpoint span-40]
+@snap[midpoint span-55]
 ![Git](assets/img/pull-request-details.png)
 @snapend
 
