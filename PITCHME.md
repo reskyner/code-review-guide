@@ -295,12 +295,10 @@ Add links to the relevant issues to a list in README.md:
 ---
 
 @snap[north span-100]
-
 ### Step 4: Pull request
-
 @snapend
 
-@snap[midpoint span-60]
+@snap[midpoint span-40]
 ![Git](assets/img/pull-request-details.png)
 @snapend
 
@@ -312,7 +310,7 @@ Add links to the relevant issues to a list in README.md:
 
 @snapend
 
-@snap[midpoint span-60]
+@snap[midpoint span-70]
 
 ![Git](assets/img/add-review-change.png)
 
