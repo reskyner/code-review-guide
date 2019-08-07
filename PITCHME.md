@@ -86,10 +86,7 @@
 
 @snap[north span-100]
 
-### Time: < 500 LOC per hour 
-
-
-(study by SmartBear: study of a Cisco Systems programming team)
+### Time: < 500 LOC per hour
 
 @snapend
 
