@@ -98,13 +98,29 @@
 
 @snap[east span-50]
 
-research shows a significant drop in defect density at rates faster than 500 LOC per hour.
+Research shows a significant drop in defect density at rates faster than 500 LOC per hour.
 
 @snapend
 
 @snap[south span-100]
 
 Code reviews in reasonable quantity, at a slower pace for a limited amount of time results in the most effective code review.
+
+@snapend
+
+---
+
+@snap[north span-100]
+
+### Set goals & capture metrics  
+
+@snapend
+
+@snap[midpoint span-100]
+
+Before implementing a process, we should decide how to measure effectiveness  
+
+i.e. Everyone should decide what they want to get out of code review, and we should regularly work out whether we need to chance things to achieve those goals
 
 @snapend
 
