@@ -306,17 +306,17 @@ Add links to the relevant issues to a list in README.md:
 
 @snap[north span-100]
 
-### Step 5: Reviewers and you review
+### Step 5: Reviewers and you review changes
 
 @snapend
 
-@snap[midpoint span-80]
+@snap[midpoint span-70]
 
 ![Git](assets/img/add-review-change.png)
 
 @snapend
 
-@snap[south span-70]
+@snap[south span-60]
 
 ![Git](assets/img/review-comment.png)
 
