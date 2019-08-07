@@ -294,20 +294,21 @@ Add links to the relevant issues to a list in README.md:
 
 ---
 
-@snap[midpoint span-100]
+@snap[north span-100]
 
 ### Step 4: Pull request
 
 @snapend
 
+@snap[midpoint span-60]
 ![Git](assets/img/pull-request-details.png)
-
+@snapend
 
 ---
 
 @snap[north span-100]
 
-### Step 4: Reviewers and you review changes
+### Step 5: Reviewers and you review changes
 
 @snapend
 
@@ -331,7 +332,7 @@ Add links to the relevant issues to a list in README.md:
 
 @snap[midpoint span-100]
 
-### Step 5: Merge into master and close!
+### Step 6: Merge into master and close!
 
 @snapend
 
