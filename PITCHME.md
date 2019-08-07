@@ -63,7 +63,8 @@
 @snapend
 
 @snap[west span-50 -center]
-
+  
+  
 @ul
 - Review no more than 200-400 LOC at a time
 - Beyond this, the ability to find defects diminishes
