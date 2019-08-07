@@ -55,7 +55,7 @@
 
 @snap[north span-100]
 
-### Quantity: < 400 lines of code (LOC) at a time  
+### Quantity: < 400 lines of code (LOC)  
 
 @snapend
 
