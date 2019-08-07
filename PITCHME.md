@@ -62,19 +62,16 @@
 
 @snapend
 
-@snap[south-west span-50]
+@snap[west span-50]
 
-@ul
 
-@size[12pt](- Review no more than 200-400 LOC at a time)  
-@size[12pt](- Beyond this, the ability to find defects diminishes)  
-@size[12pt](- 200-400 LOC over 60 to 90 minutes should yield 70-90% defect discovery)  
-
-@ulend
+@size[16pt](- Review no more than 200-400 LOC at a time)  
+@size[16pt](- Beyond this, the ability to find defects diminishes)  
+@size[16pt](- 200-400 LOC over 60 to 90 minutes should yield 70-90% defect discovery)  
 
 @snapend
 
-@snap[south-east span-50]
+@snap[east span-50]
 
 ![best-practice](assets/img/code-review-best-practices-figure-01.gif)
 
