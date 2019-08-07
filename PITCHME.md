@@ -209,18 +209,18 @@ How will the bugs get fixed?
 
 ### Step 1: Create an issue  
 
-@fa[quote-left](Use issues to track ideas, enhancements, tasks, or bugs for work on GitHub.)
+@fa[quote-left](Use issues to track ideas, enhancements, tasks, or bugs for work on GitHub.)  
 
-<p></p>
 
-  
+@snapend
+
+@snap[south span-100]
+
 #### Why?  
 
-<p></p>
 
 An issue can be associated with a pull request, and automatically closes when pull request is merged  
 
-<p></p>  
 
 #### How?
 
@@ -261,8 +261,6 @@ Pictures...
 @ulend
 
 @snapend
-
----
 
 ---
 
