@@ -178,6 +178,12 @@ To consider:
 
 @snapend
 
+@snap[south span-100 -center -text-12]
+
+https://hackernoon.com/writing-an-amazing-code-review-checklist-de65479e8524
+
+@snapend
+
 ---
 
 @snap[north-west span-100]
