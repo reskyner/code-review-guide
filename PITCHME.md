@@ -62,7 +62,7 @@
 
 @snapend
 
-@snap[north-west span-50]
+@snap[south-west span-50]
 
 @ul
 
@@ -74,7 +74,7 @@
 
 @snapend
 
-@snap[north-east span-50]
+@snap[south-east span-50]
 
 ![best-practice](assets/img/code-review-best-practices-figure-01.gif)
 
