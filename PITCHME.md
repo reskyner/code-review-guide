@@ -320,6 +320,9 @@ Add links to the relevant issues to a list in README.md:
 ![Git](assets/img/review-comment.png)
 
 @snapend
+---
+
+![Git](assets/img/finish-review.png)
 
 ---
 
