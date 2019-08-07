@@ -83,7 +83,7 @@
 
 @snap[midpoint span-100]
 
-![best-practice](code-review-best-practices-figure-01.gif)
+![best-practice](assets/img/code-review-best-practices-figure-01.gif)
 
 @snapend
 
