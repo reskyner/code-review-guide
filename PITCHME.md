@@ -306,7 +306,7 @@ Add links to the relevant issues to a list in README.md:
 
 @snap[north span-100]
 
-### Step 5: Reviewers and you review changes
+### Step 5: Reviewers and you review
 
 @snapend
 
