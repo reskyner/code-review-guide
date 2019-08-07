@@ -62,7 +62,7 @@
 
 @snapend
 
-@snap[west span-100]
+@snap[midoint-west span-50]
 
 @ul
 
@@ -74,7 +74,7 @@
 
 @snapend
 
-@snap[east span-50]
+@snap[midpoint-east span-50]
 
 ![best-practice](assets/img/code-review-best-practices-figure-01.gif)
 
@@ -91,13 +91,13 @@
 
 @snapend
 
-@snap[west span-50]
+@snap[midpoint-west span-50]
 
 ![best-practice](assets/img/code-review-best-practices-figure-02.gif)
 
 @snapend
 
-@snap east [span-50]
+@snap [midpoint-east span-50]
 
 research shows a significant drop in defect density at rates faster than 500 LOC per hour.
 
