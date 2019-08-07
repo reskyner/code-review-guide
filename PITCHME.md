@@ -166,7 +166,6 @@ i.e. Everyone should decide what they want to get out of code review, and we sho
 @snap[east span-50 -center -text-12 -text-left]
 
 @ul
-
 - code duplication
 - styling
 - security
