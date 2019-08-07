@@ -64,7 +64,7 @@
 
 @snapend
 
-@snap [sout-west span-100]
+@snap [south-west span-100]
 
 @ul
 
