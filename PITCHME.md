@@ -62,7 +62,7 @@
 
 @snapend
 
-@snap[south-west span-50 -center]
+@snap[west span-50 -center]
 
 @ul
 - Review no more than 200-400 LOC at a time
