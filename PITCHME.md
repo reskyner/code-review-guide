@@ -60,7 +60,11 @@
 
 @snap[west span-100]
 
-(study by SmartBear study of a Cisco Systems programming team)
+(study by SmartBear: study of a Cisco Systems programming team)
+
+@snapend
+
+@snap [sout-west span-100]
 
 @ul
 
