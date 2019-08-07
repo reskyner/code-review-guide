@@ -282,12 +282,15 @@ Add links to the relevant issues to a list in README.md:
 
 ---
 
-@snap[midpoint span-100]
+@snap[north span-100]
 
-### Step 3: Create a branch (per issue?!) and review
+### Step 3: Create a branch (per issue?!)
 
 @snapend
 
+@snap[midpoint]
+
+![Git](assets/img/branch-open.png)
 
 ---
 
@@ -297,15 +300,25 @@ Add links to the relevant issues to a list in README.md:
 
 @snapend
 
+![Git](assets/img/pull-request-details.png)
+
 
 ---
 
 @snap[midpoint span-100]
 
-### Step 4: Reviewers comment on changes
+### Step 4: Reviewers and you review changes
 
 @snapend
 
+![Git](assets/img/add-review-change.png)
+
+![Git](assets/img/review-comment.png)
+
+
+---
+
+![Git](assets/img/review-comment-2.png)
 
 ---
 
@@ -314,6 +327,8 @@ Add links to the relevant issues to a list in README.md:
 ### Step 5: Merge into master and close!
 
 @snapend
+
+
 
 
 ---
