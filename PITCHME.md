@@ -52,16 +52,17 @@
 
 
 ---
+
 @snap[north-west span-100]
 
-### Review < 400 lines of code (LOC) at a time  
+### Quantity: < 400 lines of code (LOC) at a time  
 
 
 (study by SmartBear: study of a Cisco Systems programming team)
 
 @snapend
 
-@snap[south-west span-100]
+@snap[west span-100]
 
 @ul
 
@@ -73,20 +74,42 @@
 
 @snapend
 
+@snap[east span-50]
+
+![best-practice](assets/img/code-review-best-practices-figure-01.gif)
+
+@snapend
 
 ---
 
 @snap[north-west span-100]
 
-### Review < 400 lines of code (LOC) at a time
+### Time: < 500 LOC per hour 
+
+
+(study by SmartBear: study of a Cisco Systems programming team)
 
 @snapend
 
-@snap[midpoint span-100]
+@snap[west span-50]
 
 ![best-practice](assets/img/code-review-best-practices-figure-01.gif)
 
 @snapend
+
+@snap east [span-50]
+
+research shows a significant drop in defect density at rates faster than 500 LOC per hour.
+
+@snapend
+
+@snap[south span-100]
+
+Code reviews in reasonable quantity, at a slower pace for a limited amount of time results in the most effective code review.
+
+@snapend
+
+
 
 ---
 
