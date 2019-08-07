@@ -93,7 +93,7 @@
 
 @snap[west span-50]
 
-![best-practice](assets/img/code-review-best-practices-figure-01.gif)
+![best-practice](assets/img/code-review-best-practices-figure-02.gif)
 
 @snapend
 
