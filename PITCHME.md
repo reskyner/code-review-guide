@@ -59,9 +59,9 @@
 
 @snapend
 
-@snap[west span-50 -center]
+@snap[west span-50 -center -text-16]
 
-@ul[size 14pt]
+@ul
 
 - Review no more than 200-400 LOC at a time
 - Beyond this, the ability to find defects diminishes
@@ -76,7 +76,7 @@
 
 @snapend
 
-@snap[south-east span-50 -center]
+@snap[south-east span-100]
 
 @size[14pt](study by SmartBear: study of a Cisco Systems programming team)
 
