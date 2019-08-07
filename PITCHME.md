@@ -1,7 +1,7 @@
 ---
 
 # Code Review Guidelines
-## Racheall Skynertt
+## Rachael Skyner
 
 ---
 @snap[midpoint span-100]
