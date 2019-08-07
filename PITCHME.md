@@ -10,6 +10,7 @@
 @ul
 
 - Intro: Why code review?
+- Best practice
 - Step 1: Create an issue
 - Step 2: Create a new branch for each issue
 - Step 3: Pull request for each issue
@@ -39,6 +40,47 @@
 - Learn new things!
 
 @ulend
+@snapend
+
+---
+
+@snap[midpoint span-100]
+
+## Best practices for code review
+
+@snapend
+
+
+---
+@snap[north-west span-100]
+
+### Review < 400 lines of code (LOC) at a time
+
+@ul
+
+- Review no more than 200-400 LOC at a time
+- Beyond this, the ability to find defects diminishes
+- 200-400 LOC over 60 to 90 minutes should yield 70-90% defect discovery
+
+@ulend
+
+(study by SmartBear study of a Cisco Systems programming team)
+
+@snapend
+
+
+---
+
+@snap[north-west span-100]
+
+### Review < 400 lines of code (LOC) at a time
+
+@snapend
+
+@snap[midpoint span-100]
+
+![best-practice](code-review-best-practices-figure-01.gif)
+
 @snapend
 
 ---
@@ -93,7 +135,7 @@ Pictures...
 
 - Create new label 'code-review' (if not existing)
 - Give it a meaningful title (e.g. add a comment to the MakeAFile class to explain use)
-- Give it some context (e.g. I struggled to understand how you were making a new file. Adding a commant above the class would help me to understand)
+- Give it some context (e.g. I struggled to understand how you were making a new file. Adding a comment above the class would help me to understand)
 - Assign it to the person that suggestes the change, and yourself
 
 @ulend
